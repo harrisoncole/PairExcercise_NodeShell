@@ -1,0 +1,22 @@
+{
+  "name": "pairexcercise_nodeshell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "pwd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisoncole/PairExcercise_NodeShell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisoncole/PairExcercise_NodeShell/issues"
+  },
+  "homepage": "https://github.com/harrisoncole/PairExcercise_NodeShell#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
